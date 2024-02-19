@@ -6,6 +6,24 @@
     font-size: 50px;
 }
 
+.smaller {
+    font-size: 40px;
+}
+
+.even-smaller {
+    font-size: 30px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+.ingredients-list,
+.instructions {
+    font-size: 20px;
+    font-style: italic;
+}
+
 .link {
     font-style: italic;
     font-size: 20px;
