@@ -1,0 +1,12 @@
+* {
+    font-family: "Times New Roman", serif;
+}
+
+.heading {
+    font-size: 50px;
+}
+
+.link {
+    font-style: italic;
+    font-size: 20px;
+}
